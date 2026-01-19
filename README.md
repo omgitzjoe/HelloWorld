@@ -4,7 +4,7 @@ A test file to initiate a repository for future use
 
 Practice in setting up a repository
 
-[Video Demo](https://youtu.be/c_0jxLvCXts)
+[Video Demo](https://youtu.be/kU6urxI-gio)
 
 # Development Environment
 
